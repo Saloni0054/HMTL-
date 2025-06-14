@@ -1,2 +1,2 @@
 # HMTL-
-HTML
+HTML is Hypertext Markup Language
